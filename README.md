@@ -22,6 +22,20 @@ I'm a web developer with experience in the PHP ecosystem, specialized in creatin
 
 ---
 
+As a **Senior Developer / Tech Lead**, I design and lead solutions grounded in strong software engineering principles, with a clear focus on **scalability, maintainability, and long-term system evolution**.
+
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-2E7D32?style=for-the-badge&logo=java&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-1565C0?style=for-the-badge&logo=codefactor&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC_Architecture-E65100?style=for-the-badge&logo=angular&logoColor=white)
+
+**Strategic application across:**
+- Backend architecture using PHP (Laravel, Magento 2, WordPress)
+- Clean, decoupled, domain-oriented system design
+- Clear separation of concerns and dependency control
+- Scalable and modular frontend applications (Angular)
+- Active technical debt management and continuous codebase improvement
+
+---
 ## 🛠️ Tech Stack
 
 ### Backend
@@ -99,7 +113,24 @@ Soy un desarrollador web con experiencia en el ecosistema PHP, especializado en 
 - 🌎 Ubicado en Colombia
 
 ---
+## 🧠 Development Principles / Principios de Desarrollo
+<a name="development-principles"></a>
 
+
+Como **Senior Developer / Tech Lead**, diseño y lidero soluciones basadas en principios sólidos de ingeniería de software, priorizando la **escalabilidad, mantenibilidad y evolución del sistema** a largo plazo.
+
+![POO](https://img.shields.io/badge/Programación_Orientada_a_Objetos-2E7D32?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/Principios_SOLID-1565C0?style=for-the-badge)
+![MVC](https://img.shields.io/badge/Arquitectura_MVC-E65100?style=for-the-badge)
+
+**Aplicación estratégica en:**
+- Arquitectura backend en PHP (Laravel, Magento 2, WordPress)
+- Diseño de sistemas desacoplados y orientados a dominio
+- Separación clara de responsabilidades y control de dependencias
+- Frontend modular y escalable con Angular
+- Reducción activa de deuda técnica y mejora continua del código
+
+---
 ## 🛠️ Stack Tecnológico
 
 ### Backend
