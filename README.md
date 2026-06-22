@@ -150,13 +150,14 @@ I leverage AI tools such as Claude and ChatGPT to improve productivity, code qua
 - Business logic implementation and custom workflows
 - Technical analysis and scalable solution design
 
-### 🚀 Laravel Applications
+### 🚀 Laravel Backend Solutions
 
-- REST API development
-- Business logic implementation
-- Database optimization
-- Scalable backend architecture
-- Third-party integrations
+- Designing and implementing scalable RESTful APIs.
+- Developing business logic and enterprise workflows.
+- Building decoupled, maintainable, and scalable backend architectures.
+- Optimizing database performance and application efficiency.
+- Integrating third-party services and external APIs.
+- Applying SOLID principles, clean code practices, and software design patterns.
 
 ### 📝 WordPress Development
 
@@ -243,6 +244,15 @@ Utilizo herramientas de inteligencia artificial como Claude y ChatGPT para mejor
 - Asistencia en integraciones de APIs REST.
 - Optimización de consultas y análisis de MySQL.
 - Documentación técnica y revisión de código.
+
+### 🚀 Soluciones Backend con Laravel
+
+- Diseño e implementación de APIs REST escalables.
+- Desarrollo de lógica de negocio y procesos empresariales.
+- Arquitectura backend desacoplada y mantenible.
+- Optimización de consultas y rendimiento de bases de datos.
+- Integración con servicios externos y APIs de terceros.
+- Aplicación de buenas prácticas y principios SOLID.
 
 ### 📝 WordPress
 
