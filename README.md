@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Johan%20Martinez&fontSize=45&fontAlignY=35&desc=Senior%20PHP%20Developer%20|%20Magento%20Backend%20Specialist&descAlignY=55" />
+</p>
+
+
 # 🌐 Language / Idioma
 
 [![English](https://img.shields.io/badge/Language-English-blue?style=flat-square)](#-hi-im-johan-)
@@ -7,7 +13,9 @@
 
 # 🇺🇸 Hi, I'm Johan 👋
 
-**PHP Full Stack Developer** passionate about building robust and scalable web solutions.
+**Senior PHP Developer | Magento Backend Specialist | Tech Lead**
+
+Building scalable e-commerce solutions, backend architectures, and maintainable applications.
 
 ---
 
@@ -36,6 +44,72 @@ As a **Senior Developer / Tech Lead**, I design and lead solutions grounded in s
 - Active technical debt management and continuous codebase improvement
 
 ---
+## 🤖 AI-Assisted Development
+
+I leverage AI tools such as Claude and ChatGPT to improve productivity, code quality, technical documentation, and software development workflows.
+
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🛒 Magento 2
+
+- Backend code analysis and optimization.
+- Support for custom module development.
+- REST API integration assistance.
+- Query optimization and MySQL analysis.
+- Technical documentation and code review.
+
+### 📝 WordPress
+
+- Plugin and theme development assistance.
+- Hook and filter implementation support.
+- Custom Post Type generation.
+- Code refactoring and validation.
+- Documentation and troubleshooting.
+
+### ⚡ Angular
+
+- Component generation and optimization.
+- Reactive forms and validation assistance.
+- API integration support.
+- TypeScript code analysis.
+- Frontend architecture recommendations.
+
+### 💡 General Applications
+
+- Technical documentation generation.
+- Refactoring and clean code practices.
+- Test case generation.
+- Debugging and issue analysis.
+- Requirement analysis and solution design.
+
+---
+
+## 🏗️ Areas of Expertise
+
+- Magento 2 Backend Development
+- Laravel Application Development
+- REST API Design & Integration
+- E-commerce Architecture
+- MySQL Performance Optimization
+- Software Architecture
+- Technical Leadership
+- AI-Assisted Development
+
+
+
+---
+
+## 🎯 Current Focus
+
+- Software Architecture
+- AI-Assisted Development
+- Scalable Backend Systems
+- Modern PHP Ecosystem
+- Performance Optimization
+
+
+---
 ## 🛠️ Tech Stack
 
 ### Backend
@@ -60,27 +134,49 @@ As a **Senior Developer / Tech Lead**, I design and lead solutions grounded in s
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
 ## 💼 Featured Experience
 
-### 🛒 E-commerce with Magento 2
-- REST API development for order and payment management
-- Multi Source Inventory (MSI) system integration
-- Custom queries for stock management
+### 🛒 Magento 2 E-commerce Solutions
+
+- Custom module development and backend architecture
+- REST API integrations for orders, payments, and logistics
+- Multi Source Inventory (MSI) implementation
+- MySQL optimization and performance improvements
+- Business logic implementation and custom workflows
+- Technical analysis and scalable solution design
+
+### 🚀 Laravel Applications
+
+- REST API development
+- Business logic implementation
+- Database optimization
+- Scalable backend architecture
+- Third-party integrations
 
 ### 📝 WordPress Development
-- Custom plugins and themes creation
+
+- Custom plugin and theme development
 - Advanced Custom Post Types and taxonomies
-- Logging and validation systems
+- Third-party integrations and API consumption
+- Performance optimization and maintenance
+- Validation and logging systems
 
 ### ⚡ Angular Applications
-- Reactive forms with dynamic validation
-- Reusable and modular components
-- RESTful API integrations
+
+- Development of modular and reusable components
+- Reactive forms and advanced validation
+- REST API integrations
+- Scalable frontend architecture
+- Performance optimization and maintainable code
 
 ---
+
+
 
 ## 📫 Connect with Me
 
@@ -99,7 +195,9 @@ As a **Senior Developer / Tech Lead**, I design and lead solutions grounded in s
 
 # 🇪🇸 Hola, soy Johan 👋
 
-**Desarrollador PHP Full Stack** apasionado por crear soluciones web robustas y escalables.
+**Desarrollador Senior PHP | Especialista en Backend Magento | Líder Técnico**
+
+Construyendo soluciones e-commerce escalables, arquitecturas backend y aplicaciones mantenibles.
 
 ---
 
@@ -131,6 +229,71 @@ Como **Senior Developer / Tech Lead**, diseño y lidero soluciones basadas en pr
 - Reducción activa de deuda técnica y mejora continua del código
 
 ---
+## 🤖 Desarrollo Asistido por IA
+
+Utilizo herramientas de inteligencia artificial como Claude y ChatGPT para mejorar la productividad, la calidad del código, la documentación técnica y los procesos de desarrollo de software.
+
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🛒 Magento 2
+
+- Análisis y optimización de código backend.
+- Apoyo en el desarrollo de módulos personalizados.
+- Asistencia en integraciones de APIs REST.
+- Optimización de consultas y análisis de MySQL.
+- Documentación técnica y revisión de código.
+
+### 📝 WordPress
+
+- Asistencia en desarrollo de plugins y temas.
+- Soporte en implementación de hooks y filtros.
+- Generación de Custom Post Types.
+- Refactorización y validación de código.
+- Documentación y resolución de problemas.
+
+### ⚡ Angular
+
+- Generación y optimización de componentes.
+- Asistencia en formularios reactivos y validaciones.
+- Soporte en integración de APIs.
+- Análisis de código TypeScript.
+- Recomendaciones de arquitectura frontend.
+
+### 💡 Aplicaciones Generales
+
+- Generación de documentación técnica.
+- Refactorización y buenas prácticas.
+- Creación de casos de prueba.
+- Debugging y análisis de incidencias.
+- Análisis de requerimientos y diseño de soluciones.
+
+---
+
+## 🏗️ Áreas de Especialización
+
+- Desarrollo Backend con Magento 2
+- Desarrollo de aplicaciones con Laravel
+- Diseño e integración de APIs REST
+- Arquitectura de soluciones E-commerce
+- Optimización y rendimiento de MySQL
+- Arquitectura de software
+- Liderazgo técnico
+- Desarrollo asistido por IA
+
+---
+
+## 🎯 Enfoque Actual
+
+- Arquitectura de software y buenas prácticas
+- Desarrollo asistido por inteligencia artificial
+- Sistemas backend escalables
+- Ecosistema moderno de PHP
+- Optimización de rendimiento y bases de datos
+- Aplicaciones mantenibles y de largo plazo
+
+
+---
 ## 🛠️ Stack Tecnológico
 
 ### Backend
@@ -160,20 +323,41 @@ Como **Senior Developer / Tech Lead**, diseño y lidero soluciones basadas en pr
 
 ## 💼 Experiencia Destacada
 
-### 🛒 E-commerce con Magento 2
-- Desarrollo de APIs REST para gestión de órdenes y pagos
-- Integración de sistemas de inventario Multi Source Inventory (MSI)
-- Consultas personalizadas para gestión de stock
+### 🛒 Soluciones E-commerce con Magento 2
+
+- Desarrollo de módulos personalizados y arquitectura backend
+- Integración de APIs REST para órdenes, pagos y logística
+- Implementación de Multi Source Inventory (MSI)
+- Optimización de MySQL y mejoras de rendimiento
+- Implementación de lógica de negocio y flujos personalizados
+- Análisis técnico y diseño de soluciones escalables
 
 ### 📝 Desarrollo WordPress
-- Creación de plugins y temas personalizados
+
+- Desarrollo de plugins y temas personalizados
 - Custom Post Types y taxonomías avanzadas
-- Sistemas de logging y validación
+- Integraciones con terceros y consumo de APIs
+- Optimización de rendimiento y mantenimiento
+- Sistemas de validación y logging
 
 ### ⚡ Aplicaciones Angular
-- Formularios reactivos con validación dinámica
-- Componentes reutilizables y modulares
-- Integraciones con APIs RESTful
+
+- Desarrollo de componentes reutilizables y modulares
+- Formularios reactivos y validaciones avanzadas
+- Integraciones con APIs REST
+- Arquitectura frontend escalable
+- Optimización del rendimiento y código mantenible
+
+---
+
+## 🚀 Lo que aporto a un equipo
+
+✔ Desarrollo backend sólido en el ecosistema PHP  
+✔ Amplia experiencia en comercio electrónico con Magento 2  
+✔ Código limpio, mantenible y escalable  
+✔ Capacidad de análisis y resolución de problemas complejos  
+✔ Experiencia en trabajo colaborativo y metodologías ágiles  
+✔ Enfoque en la mejora continua y reducción de deuda técnica
 
 ---
 
